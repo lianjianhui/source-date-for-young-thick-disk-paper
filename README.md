@@ -1,7 +1,7 @@
 # source-date-for-young-thick-disk-paper
 Collection of processed data for young thick disk work
 
-This repository includes the processed data that are presented in Lian et al. 2025 () in which we discover a young thick disk component in the Milky Way galaxy. The structure of the files are as following:
+This repository includes the processed data that are presented in Lian et al. 2025 (http://arxiv.org/abs/2504.10869) in which we unveil a young thick disk component in the Milky Way galaxy. The structure of the files are as following:
 
 data_fig2_lowa-higha-integrated: Scale height as a function of radius for the integrated low- and high-$\alpha$ populations as shown in Figure 2 in the paper. Dimensions in (2,14,2). First dimension is the two populations in an order of high-alpha and low-alpha. Second dimension is radius, with radial range from 0 to 14 kpc with even interval of 1kpc. The last dimension represents the properties and associated uncertainties of the two populations at each radii, including average Galactocentric radius (kpc), scale height (kpc), scale height uncertainty (kpc).  
 
